@@ -62,21 +62,21 @@ export function SocialLinks() {
           <Phone className="w-5 h-5 text-primary mt-1" />
           <div>
             <p className="font-semibold text-foreground">Phone</p>
-            <p className="text-muted-foreground">+1 (555) 123-4567</p>
+            <p className="text-muted-foreground">+91 8897778788</p>
           </div>
         </div>
         <div className="flex items-start gap-3">
           <Mail className="w-5 h-5 text-primary mt-1" />
           <div>
             <p className="font-semibold text-foreground">Email</p>
-            <p className="text-muted-foreground">hello@attuluriEvents.com</p>
+            <p className="text-muted-foreground">attlurievents@gmail.com</p>
           </div>
         </div>
         <div className="flex items-start gap-3">
           <MapPin className="w-5 h-5 text-primary mt-1" />
           <div>
             <p className="font-semibold text-foreground">Location</p>
-            <p className="text-muted-foreground">123 Event Street, New York, NY 10001</p>
+            <p className="text-muted-foreground">Vijayawada,Andhra Pradesh</p>
           </div>
         </div>
       </div>

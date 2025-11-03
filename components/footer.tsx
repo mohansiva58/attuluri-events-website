@@ -29,7 +29,7 @@ export function Footer() {
               </div>
               <div className="flex items-center gap-3">
                 <Mail size={18} className="flex-shrink-0" />
-                <a href="mailto:hello@attuluri.com" className="hover:opacity-100 transition">
+                <a href="mailto:attlurievents@gmail.com" className="hover:opacity-100 transition">
                   attlutievents@gmail.com
                 </a>
               </div>

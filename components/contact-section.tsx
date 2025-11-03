@@ -9,7 +9,7 @@ const contactInfo = [
   {
     icon: MapPin,
     title: "Location",
-    details: ["Hyderabad, India", "Available for destination events nationwide"],
+    details: ["Vijayawada, India", "Available for destination events nationwide"],
     link: "https://maps.google.com",
   },
   {
@@ -21,8 +21,8 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email",
-    details: ["hello@attuluri.com", "booking@attuluri.com"],
-    link: "mailto:hello@attuluri.com",
+    details: ["attlurievents@gmail.com", "booking@attuluri.com"],
+    link: "mailto:attlurievents@gmail.com",
   },
   {
     icon: Clock,
