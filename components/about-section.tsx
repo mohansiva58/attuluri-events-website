@@ -1,16 +1,19 @@
 import { Award, Users, Sparkles } from "lucide-react"
 
+
 const stats = [
   { icon: Award, label: "Events Delivered", value: "500+" },
   { icon: Users, label: "Happy Clients", value: "1000+" },
   { icon: Sparkles, label: "Years of Excellence", value: "15+" },
 ]
 
-const team = [
-  { name: "Rajesh Attuluri", role: "Founder & Creative Director", image: "/professional-man-founder-event-planner.jpg" },
-  { name: "Priya Attuluri", role: "Event Planning Head", image: "/professional-woman-event-planner.jpg" },
-  { name: "Vikram Singh", role: "Technical & Production Lead", image: "/professional-man-technical-lead.jpg" },
-  { name: "Ananya Sharma", role: "Catering & Hospitality Manager", image: "/professional-woman-hospitality-manager.jpg" },
+// Images in Next.js `public/` should be referenced by URL (e.g. '/1.jpeg'),
+// not imported from a `./public/...` relative path. Use string paths instead.
+const teamMembers = [
+  { name: "PRASAD  BABU UNNAM", role: "Founder & CEO", image: "/1.jpeg" },
+  { name: "RANGARAO ATTULURI", role: "co-founder & CEO", image: "/2.png" },
+  { name: "G RAVI TEJA ", role: "CO-FOUNDER", image: "/3.png" },
+  // { name: "Ananya Sharma", role: "Catering & Hospitality Manager", image: "/4.png" },
 ]
 
 export function About() {
@@ -121,7 +124,7 @@ export function About() {
         <h2 className="text-4xl font-serif font-bold text-foreground mb-12 text-center">Meet Our Team</h2>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-          {team.map((member, i) => (
+          {teamMembers.map((member, i) => (
             <div key={i} className="text-center group">
               <div className="mb-4 overflow-hidden rounded-xl">
                 <img

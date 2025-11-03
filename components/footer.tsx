@@ -19,18 +19,18 @@ export function Footer() {
             <div className="space-y-3 text-sm opacity-80">
               <div className="flex items-start gap-3">
                 <MapPin size={18} className="flex-shrink-0 mt-0.5" />
-                <span>Hyderabad, India</span>
+                <span>Vijayawada, Andhra Pradesh, India</span>
               </div>
               <div className="flex items-center gap-3">
                 <Phone size={18} className="flex-shrink-0" />
                 <a href="tel:+919876543210" className="hover:opacity-100 transition">
-                  +91 98765 43210
+                  +91 8897778788
                 </a>
               </div>
               <div className="flex items-center gap-3">
                 <Mail size={18} className="flex-shrink-0" />
                 <a href="mailto:hello@attuluri.com" className="hover:opacity-100 transition">
-                  hello@attuluri.com
+                  attlutievents@gmail.com
                 </a>
               </div>
             </div>

@@ -1,4 +1,5 @@
-const ACCESS_KEY = "183ca44f-918a-4e6b-8f33-07e609b475f9"
+const ACCESS_KEY = "2e0c0209-3e67-4354-bbf4-60924802dff1"
+
 
 export const sendBookingEmail = async (bookingData: any, adminEmail: string) => {
   const formData = new FormData()

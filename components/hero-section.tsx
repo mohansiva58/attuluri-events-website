@@ -46,7 +46,7 @@ export function HeroSection() {
         <div className="hidden lg:block flex-1">
           <div className="relative w-full aspect-square">
             <img
-              src="/cinematic-event-setup-with-lights-and-flowers.jpg"
+              src="https://dreamweddinghub.com/public/uploads/vendor_images/1716269144wedding-planner-delhi%20(1).jpg"
               alt="Cinematic event setup"
               className="w-full h-full object-cover rounded-2xl shadow-2xl"
             />
