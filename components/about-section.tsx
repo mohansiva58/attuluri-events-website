@@ -10,9 +10,9 @@ const stats = [
 // Images in Next.js `public/` should be referenced by URL (e.g. '/1.jpeg'),
 // not imported from a `./public/...` relative path. Use string paths instead.
 const teamMembers = [
-  { name: "PRASAD  BABU UNNAM", role: "Founder & CEO", image: "/1.jpeg" },
-  { name: "RANGARAO ATTULURI", role: "co-founder & CEO", image: "/2.png" },
-  { name: "G RAVI TEJA ", role: "CO-FOUNDER", image: "/3.png" },
+  { name: "RANGARAO ATLURI", role: "Founder & Chairman", image: "/1.jpeg" },
+  { name: "PRASAD BABU UNNAM", role: "Event Manager", image: "/2.png" },
+  { name: "G RAVI TEJA ", role: " Event Co-Ordinater", image: "/3.png" },
   // { name: "Ananya Sharma", role: "Catering & Hospitality Manager", image: "/4.png" },
 ]
 
