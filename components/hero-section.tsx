@@ -46,7 +46,7 @@ export function HeroSection() {
         <div className="hidden lg:block flex-1">
           <div className="relative w-full aspect-square">
             <img
-              src="https://tse3.mm.bing.net/th/id/OIP.O_9ypav4mEV9zfI5bLfBtgHaE9?pid=Api&P=0&h=180"
+              src="https://tse1.mm.bing.net/th/id/OIP.AnSe4olYI8XA1Bvo7ypU0AHaEK?pid=Api&P=0&h=180"
               alt="Cinematic event setup"
               className="w-full h-full object-cover rounded-2xl shadow-2xl"
             />
